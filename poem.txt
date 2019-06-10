@@ -4,4 +4,5 @@ red
 green
 Yellow
 blue
+black
 these are the colours of rainbow
